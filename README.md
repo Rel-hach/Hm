@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Rachid EL HACIMI
+- 👋 Hi, I’m Rachid EL HACHIMI
 - 👀 I’m interested in web development, networking and cloud.
 - 🌱 I’m currently a student at 1337, 42 Network. 
 - 🌱 I’m currently working with websites .. 

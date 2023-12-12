@@ -1,4 +1,4 @@
-- Hi, I am Rachid EL HACHIMI.
+- Hi, I am Rachid HACHIMI.
 - interested in web development, networking and DevOps.
 
 <!---
